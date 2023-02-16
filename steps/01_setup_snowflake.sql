@@ -77,3 +77,5 @@ RETURNS NUMBER(35,4)
 $$
     inch * 25.4
 $$;
+
+SELECT 'COMPLETE';
